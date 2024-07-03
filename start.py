@@ -14,7 +14,7 @@ os.system('cls')
 print(f"""
 
 {Fore.LIGHTGREEN_EX}████████████████{Fore.CYAN}███████████████████
-{Fore.LIGHTGREEN_EX}█─▄▄▄─█▄─▄████▀▄{Fore.CYAN}─██▄─█▀▀▀█─▄█░▄▄░▄█        {Fore.WHITE}[{Fore.RED}!{Fore.WHITE}] Devved By @9thr On Github{Fore.LIGHTGREEN_EX}
+{Fore.LIGHTGREEN_EX}█─▄▄▄─█▄─▄████▀▄{Fore.CYAN}─██▄─█▀▀▀█─▄█░▄▄░▄█        {Fore.WHITE}[{Fore.RED}!{Fore.WHITE}] Devved by Developer-616 On Github{Fore.LIGHTGREEN_EX}
 {Fore.LIGHTGREEN_EX}█─███▀██─██▀██─▀{Fore.CYAN}─███─█─█─█─███▀▄█▀█
 {Fore.LIGHTGREEN_EX}▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▀{Fore.CYAN}▄▄▀▀▄▄▄▀▄▄▄▀▀▄▄▄▄▄▀ 
 
